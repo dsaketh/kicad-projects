@@ -21,7 +21,6 @@ PWM signal filtered into analog voltage using RC filter.
 
 ## Tools Used
 - KiCad
-- Tinkercad
 
 ## What I Learned
 - PCB design basics
