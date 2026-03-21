@@ -1343,6 +1343,18 @@
 		)
 	)
 	(rectangle
+		(start 88.9 45.72)
+		(end 213.36 116.84)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 081eec0d-0d40-43dd-9b93-27cd50d70a39)
+	)
+	(rectangle
 		(start 26.67 55.88)
 		(end 72.39 77.47)
 		(stroke
@@ -1405,6 +1417,16 @@
 			)
 		)
 		(uuid "cc552b76-45c4-486e-943c-da25fc7e76de")
+	)
+	(text "MOSFET WITH PUSH BUTTON\n"
+		(exclude_from_sim no)
+		(at 102.616 44.196 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "d59b602a-5846-45e1-904c-f318a3b8dc38")
 	)
 	(junction
 		(at 153.67 95.25)
