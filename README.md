@@ -19,11 +19,8 @@ MOSFET-based switching circuit.
 ### LED PWM
 PWM signal filtered into analog voltage using RC filter.
 
+### PWM Active Low Pass Filter
+PWM signal filtered into analog voltage using RC filter, then amplified by a gain.
+
 ## Tools Used
 - KiCad
-
-## What I Learned
-- PCB design basics
-- Schematic to layout workflow
-- MOSFET vs transistor switching
-- PWM and low-pass filters
