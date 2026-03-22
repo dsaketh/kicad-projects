@@ -7,4 +7,5 @@ LDR_sensor-backups
 PWM_Active_Low_Pass_Filter-backups
 *.DS_Store
 fp-info-cache
+.gitignore
 *.kicad_prl
