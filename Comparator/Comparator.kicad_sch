@@ -5,7 +5,7 @@
 	(uuid "a997f014-a1f8-4d77-8b60-5ae259126cb1")
 	(paper "A4")
 	(title_block
-		(title "Light Dependent Resistor")
+		(title "Comparator with LDR")
 		(rev "1")
 	)
 	(lib_symbols
@@ -3777,28 +3777,28 @@
 			)
 		)
 		(pin "3"
-			(uuid "e48f5179-5788-4cbb-ac3b-1cd233629833")
+			(uuid "e48f5179-5788-4cbb-ac3b-1cd233629834")
 		)
 		(pin "2"
-			(uuid "b122247f-db32-45f5-914d-05aac9bb1a55")
+			(uuid "b122247f-db32-45f5-914d-05aac9bb1a56")
 		)
 		(pin "1"
-			(uuid "6288c396-4328-4960-b260-22046e9b3d88")
+			(uuid "6288c396-4328-4960-b260-22046e9b3d89")
 		)
 		(pin "5"
-			(uuid "8978831c-2988-4f6d-8adf-e896dd47c8d8")
+			(uuid "8978831c-2988-4f6d-8adf-e896dd47c8d9")
 		)
 		(pin "6"
-			(uuid "c9eebf1e-c2d1-4cc9-9b1f-7308950c737c")
+			(uuid "c9eebf1e-c2d1-4cc9-9b1f-7308950c737d")
 		)
 		(pin "7"
-			(uuid "12e45731-1e53-47d8-b962-15057fef646b")
+			(uuid "12e45731-1e53-47d8-b962-15057fef646c")
 		)
 		(pin "8"
-			(uuid "3375f011-3cab-4257-9680-507e9cb75995")
+			(uuid "3375f011-3cab-4257-9680-507e9cb75996")
 		)
 		(pin "4"
-			(uuid "c24f70c7-5950-439b-84d2-907fa80c4b8a")
+			(uuid "c24f70c7-5950-439b-84d2-907fa80c4b8b")
 		)
 		(instances
 			(project ""
@@ -4495,28 +4495,28 @@
 			)
 		)
 		(pin "3"
-			(uuid "e48f5179-5788-4cbb-ac3b-1cd233629833")
+			(uuid "e48f5179-5788-4cbb-ac3b-1cd233629835")
 		)
 		(pin "2"
-			(uuid "b122247f-db32-45f5-914d-05aac9bb1a55")
+			(uuid "b122247f-db32-45f5-914d-05aac9bb1a57")
 		)
 		(pin "1"
-			(uuid "6288c396-4328-4960-b260-22046e9b3d88")
+			(uuid "6288c396-4328-4960-b260-22046e9b3d8a")
 		)
 		(pin "5"
-			(uuid "8978831c-2988-4f6d-8adf-e896dd47c8d8")
+			(uuid "8978831c-2988-4f6d-8adf-e896dd47c8da")
 		)
 		(pin "6"
-			(uuid "c9eebf1e-c2d1-4cc9-9b1f-7308950c737c")
+			(uuid "c9eebf1e-c2d1-4cc9-9b1f-7308950c737e")
 		)
 		(pin "7"
-			(uuid "12e45731-1e53-47d8-b962-15057fef646b")
+			(uuid "12e45731-1e53-47d8-b962-15057fef646d")
 		)
 		(pin "8"
-			(uuid "3375f011-3cab-4257-9680-507e9cb75995")
+			(uuid "3375f011-3cab-4257-9680-507e9cb75997")
 		)
 		(pin "4"
-			(uuid "c24f70c7-5950-439b-84d2-907fa80c4b8a")
+			(uuid "c24f70c7-5950-439b-84d2-907fa80c4b8c")
 		)
 		(instances
 			(project ""
