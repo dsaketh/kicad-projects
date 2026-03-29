@@ -1,2 +1,5 @@
 *-backups
 .DS_Store
+*.kicad_prl
+*/fp-info-cache
+PWM_Active_Low_Pass_Filter/Temperature_Controlled_Fan/fp-info-cache
