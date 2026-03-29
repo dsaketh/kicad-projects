@@ -4,6 +4,10 @@
 	(generator_version "9.0")
 	(uuid "0e4b7f9d-2610-45b2-9120-9039d935f5c3")
 	(paper "A4")
+	(title_block
+		(title "Voltage Regulator")
+		(rev "1")
+	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x02"
 			(pin_names
