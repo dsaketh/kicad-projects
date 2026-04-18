@@ -1665,6 +1665,12 @@
 					(unit 1)
 				)
 			)
+			(project "power"
+				(path "/c2172f07-c891-43ab-8a1e-e468d827b26f"
+					(reference "#PWR07")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -1727,6 +1733,12 @@
 			(project "Embedded Sensor Platform (RP2040)"
 				(path "/1b85bd0f-b31e-4bfa-8ac1-ba8161019f4a/e838d560-9c01-409e-813b-d8313ad4db48"
 					(reference "#PWR06")
+					(unit 1)
+				)
+			)
+			(project "power"
+				(path "/c2172f07-c891-43ab-8a1e-e468d827b26f"
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -1795,6 +1807,12 @@
 		(instances
 			(project "Embedded Sensor Platform (RP2040)"
 				(path "/1b85bd0f-b31e-4bfa-8ac1-ba8161019f4a/e838d560-9c01-409e-813b-d8313ad4db48"
+					(reference "C3")
+					(unit 1)
+				)
+			)
+			(project "power"
+				(path "/c2172f07-c891-43ab-8a1e-e468d827b26f"
 					(reference "C3")
 					(unit 1)
 				)
@@ -1870,6 +1888,12 @@
 					(unit 1)
 				)
 			)
+			(project "power"
+				(path "/c2172f07-c891-43ab-8a1e-e468d827b26f"
+					(reference "R1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -1937,6 +1961,12 @@
 					(unit 1)
 				)
 			)
+			(project "power"
+				(path "/c2172f07-c891-43ab-8a1e-e468d827b26f"
+					(reference "#PWR05")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2000,6 +2030,12 @@
 			(project "Embedded Sensor Platform (RP2040)"
 				(path "/1b85bd0f-b31e-4bfa-8ac1-ba8161019f4a/e838d560-9c01-409e-813b-d8313ad4db48"
 					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+			(project "power"
+				(path "/c2172f07-c891-43ab-8a1e-e468d827b26f"
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -2073,6 +2109,12 @@
 					(unit 1)
 				)
 			)
+			(project "power"
+				(path "/c2172f07-c891-43ab-8a1e-e468d827b26f"
+					(reference "J1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2139,6 +2181,12 @@
 					(unit 1)
 				)
 			)
+			(project "power"
+				(path "/c2172f07-c891-43ab-8a1e-e468d827b26f"
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2202,6 +2250,12 @@
 			(project "Embedded Sensor Platform (RP2040)"
 				(path "/1b85bd0f-b31e-4bfa-8ac1-ba8161019f4a/e838d560-9c01-409e-813b-d8313ad4db48"
 					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+			(project "power"
+				(path "/c2172f07-c891-43ab-8a1e-e468d827b26f"
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -2280,6 +2334,12 @@
 					(unit 1)
 				)
 			)
+			(project "power"
+				(path "/c2172f07-c891-43ab-8a1e-e468d827b26f"
+					(reference "Q1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2347,6 +2407,12 @@
 					(unit 1)
 				)
 			)
+			(project "power"
+				(path "/c2172f07-c891-43ab-8a1e-e468d827b26f"
+					(reference "#FLG01")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2410,6 +2476,12 @@
 		(instances
 			(project "Embedded Sensor Platform (RP2040)"
 				(path "/1b85bd0f-b31e-4bfa-8ac1-ba8161019f4a/e838d560-9c01-409e-813b-d8313ad4db48"
+					(reference "#FLG02")
+					(unit 1)
+				)
+			)
+			(project "power"
+				(path "/c2172f07-c891-43ab-8a1e-e468d827b26f"
 					(reference "#FLG02")
 					(unit 1)
 				)
@@ -2484,6 +2556,12 @@
 					(unit 1)
 				)
 			)
+			(project "power"
+				(path "/c2172f07-c891-43ab-8a1e-e468d827b26f"
+					(reference "C6")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2554,6 +2632,12 @@
 					(unit 1)
 				)
 			)
+			(project "power"
+				(path "/c2172f07-c891-43ab-8a1e-e468d827b26f"
+					(reference "C2")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2617,6 +2701,12 @@
 			(project "Embedded Sensor Platform (RP2040)"
 				(path "/1b85bd0f-b31e-4bfa-8ac1-ba8161019f4a/e838d560-9c01-409e-813b-d8313ad4db48"
 					(reference "#PWR010")
+					(unit 1)
+				)
+			)
+			(project "power"
+				(path "/c2172f07-c891-43ab-8a1e-e468d827b26f"
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -2686,6 +2776,12 @@
 		(instances
 			(project "Embedded Sensor Platform (RP2040)"
 				(path "/1b85bd0f-b31e-4bfa-8ac1-ba8161019f4a/e838d560-9c01-409e-813b-d8313ad4db48"
+					(reference "C4")
+					(unit 1)
+				)
+			)
+			(project "power"
+				(path "/c2172f07-c891-43ab-8a1e-e468d827b26f"
 					(reference "C4")
 					(unit 1)
 				)
@@ -2760,6 +2856,12 @@
 					(unit 1)
 				)
 			)
+			(project "power"
+				(path "/c2172f07-c891-43ab-8a1e-e468d827b26f"
+					(reference "C5")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2829,6 +2931,18 @@
 					(unit 1)
 				)
 			)
+			(project "power"
+				(path "/c2172f07-c891-43ab-8a1e-e468d827b26f"
+					(reference "C1")
+					(unit 1)
+				)
+			)
 		)
 	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
 )
